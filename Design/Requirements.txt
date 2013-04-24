@@ -1,0 +1,70 @@
+Outputs
+General
+  Pump
+Base
+  Left Drive 1 - motor
+  Left Drive 2 - motor
+  Right Drive 1 - motor
+  Right Drive 2 - motor
+  Shifter - solenoid
+Larm
+  Lift 1 - motor
+  Lift 2 - motor
+  Arm Pivot 1 - motor
+  Arm Pivot 2 - motor
+  Roller Top - motor
+  Roller Bottom - motor
+  Tube release - solenoid
+Mini-bot
+  ????
+LEDs
+  Tube possession
+  Tube color request
+
+Sensors
+  Left Drive Encoder
+  Right Drive Encoder
+  Pressure Sensor
+  Arm Pot
+  Lift Encoder
+  Lift down limit switch
+  Lift up limit switch
+  Tube possession limit switch
+  Gyroscope
+  Camera
+  Sonar
+
+
+Driver Inputs
+Base
+  Throttle
+  Turn
+  Shift (high / low)
+  Turbo / anti-turbo
+  Turn turbo
+  Tube grabber distance
+  Tube scoring distance
+  Flip orientation
+Larm
+  Manual lift speed
+  Manual arm speed
+  Roller claw in / out / stop
+  Roller claw open / close
+  Auto Arm positions
+    - pick up ground
+    - pick up feeder
+    - pick up behind
+    - score high 1
+    - score high 2
+    - score middle 1
+    - score middle 2
+    - score low 1
+    - score low 2
+    - home
+    - tube transport
+  score tube motion
+  rotate tube ?
+Misc
+  Tube color indicator
+  Minibot
+

@@ -1,0 +1,36 @@
+- Introduce IterativeRobot class
+- Create robot class inherits from IterativeRobot
+- Add prints to Periodic routines to show flow
+- Add RobotDrive to the robot and use ::Drive to drive the motors at a
+  constant rate
+- Add Joystick objects and use them as inputs for RobotDrive::TankDrive
+- Send Joystick data directly to RobotDrive::SetLeftRightMotors
+- Add simple drive logic to demonstrate read once, process, set outputs
+
+*- Add Jaguar objects to the robot class and use them with RobotDrive
+*- Create a WsJoystick class to handle Y-axis inversion
+*- Introduce the Gamepad class and replace Joysticks with a Gamepad
+- Experiment with ::ArcadeDrive using X from left stick and Y from right stick
+
+- Button inputs
+*- Regular button
+*- Sticky button
+*- Multisticky button
+*- Tap button (state is true only when pressed after not being pressed)
+
+* Use a tap button to cycle forward through 2 states
+* Use a tap button to cycle forward through 3 states
+* Use a two tap button to cycle forward and back through 8 states
+* Use a timer expiration to cycle forward through 8 states
+- Practical example - Drive a square
+- Practical example - Drive a square - Turn based on initial input
+
+- Limit switches
+-- Print value
+-- Block all movement when pressed
+-- Block movement in one direction when pressed
+-- Toggle based on pressed
+
+
+
+

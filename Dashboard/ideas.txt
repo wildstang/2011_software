@@ -1,0 +1,25 @@
+Main
+- Auton
+---- Program number
+---- Program name
+---- Program starting position
+---- Program starting delay
+---- Lockin state
+- Driver
+---- Turbo state
+---- Shifter state
+---- Encoder positions
+---- Drive straight adjustment
+---- Drive straight enabled
+- Manipulator
+---- Lift height
+---- Arm position
+---- Larm position name (will show manual too)
+---- Larm position locked (different for lift/arm?)
+---- Roller claw in/out state
+---- Roller claw open/close state
+- Minibot
+---- Deploy state
+- Misc
+---- Air Pressure?
+---- Tube requested
